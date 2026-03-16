@@ -1,7 +1,7 @@
 # About_Me
 # 👋 Hi, I'm Marissa Steyl
 
-🎓 I'm a first-year **Bachelor of Computing** student at **Belgium Campus ITversity**, with a passion for technology and a heart for helping others.
+🎓 I'm a **Bachelor of Computing** student at **Belgium Campus ITversity**, with a passion for technology and a heart for helping others.
 
 ---
 
