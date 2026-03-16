@@ -28,7 +28,7 @@ I’m a driven and compassionate individual who believes in the power of technol
 
 ### 📍 **Belgium Campus ITversity**  
 **Bachelor of Computing**  
-*2023 – Present* (Currently in 2nd Year)  
+*2024 – Present* (Currently in 2nd Year)  
 Cape Town, South Africa
 
 ### 🏫 **Hoërskool DF Malan**  
@@ -40,8 +40,8 @@ Graduated before entering tertiary studies
 ## 💻 Technical Skills
 
 - **Languages**: C#, Delphi, SQL  
-- **Web**: HTML 
-- **Tools**: Git, GitHub, Visual Studio, RAD Studio
+- **Web**: HTML, CSS
+- **Tools**: Git, GitHub, Visual Studio, RAD Studio, SQL Server Management Studio
 
 ---
 
@@ -64,8 +64,8 @@ Graduated before entering tertiary studies
 > *"Technology is the future, and I want to be part of creating it."*
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/10/21/16/52/woman-6729671_1280.jpg" alt="Red-haired woman coding" width="400"/>
-</p>
+  <img src="https://static.vecteezy.com/system/resources/previews/002/145/624/non_2x/woman-with-red-hair-working-on-laptop-vector.jpg" alt="Red-haired woman coding" width="400"/>
+</p> 
 
 
 
